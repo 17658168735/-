@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="box">
+	<view class="title">随机彩票号码生成器</view>
+	<view class="context">
+		<view class="k1">{{a}}</view>
+		<view class="k2">{{b}}</view>
+		<view class="k3">{{c}}</view>
+		<view class="k4">{{d}}</view>
+		<view class="k5">{{e}}</view>
+		<view class="k6">{{f}}</view>
+		<view class="k7">{{g}}</view>
+	</view>
+	<view class="front">
+	</view>
+	<button bindtap="mysubmit">随机生成</button>
+</view>
+电科19-2 张子龙 201923010232
